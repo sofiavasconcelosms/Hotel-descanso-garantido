@@ -69,7 +69,21 @@
 
 
 
+Funções para cadastrar cliente e estadia:
 
+cadastrarCliente: Captura os dados do cliente.
+cadastrarEstadia: Captura os dados da estadia.
+Funções para listar informações:
+
+listarReservas: Mostra todas as reservas cadastradas.
+listarFuncionarios: Mostra todos os funcionários cadastrados.
+listarStatusQuartos: Mostra o status de ocupação de todos os quartos.
+Função para apagar reserva:
+
+apagarReserva: Remove uma reserva específica.
+Função principal main:
+
+Reduzida para apenas lidar com a interface do usuário e a lógica do menu.
 
 
 
