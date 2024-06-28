@@ -95,6 +95,60 @@ O programa utiliza algumas bibliotecas padrão da linguagem C para diferentes fu
 </ul>
 Essas bibliotecas são essenciais para diferentes partes do programa, desde a manipulação de dados de entrada e saída até o gerenciamento de datas, memória e números aleatórios.
 
+<hr>
+
+### Telas:
+
+   -**Menu**:
+   
+![image](https://github.com/sofiavasconcelosms/Hotel-descanso-garantido/assets/161332457/b4ab2810-3086-49c2-aeaf-1c34e1cfe292)
+
+
+   -**1: Fazer uma resrva Reserva**:
+
+![image](https://github.com/sofiavasconcelosms/Hotel-descanso-garantido/assets/161332457/56fa2bdc-91af-4d1c-bfde-31d61294e937)
+
+
+   -**2: Ver reservas cadastradas**:
+
+![image](https://github.com/sofiavasconcelosms/Hotel-descanso-garantido/assets/161332457/cb9a6290-231c-4776-8cef-040a775e7a0b)
+
+
+   -**3: Apagar reserva**:
+
+![image](https://github.com/sofiavasconcelosms/Hotel-descanso-garantido/assets/161332457/670f97e6-1d9b-4e40-8aa2-823ad50fd390)
+
+   -**4: Cadastrar funcionario**:
+
+![image](https://github.com/sofiavasconcelosms/Hotel-descanso-garantido/assets/161332457/42b44e74-ac3c-4b8b-b338-a97fc53b15af)
+
+   -**5:Ver funcionarios cadastrados**:
+
+![image](https://github.com/sofiavasconcelosms/Hotel-descanso-garantido/assets/161332457/2ced9d07-9567-408e-b33e-ff78782ee3c0)
+
+   -**6:Verificar status do quartos**:
+
+![image](https://github.com/sofiavasconcelosms/Hotel-descanso-garantido/assets/161332457/cde21c2f-968c-4ec7-97ce-a99e0d431561)    ![image](https://github.com/sofiavasconcelosms/Hotel-descanso-garantido/assets/161332457/0d4ed3bc-baf7-485c-82c4-6cf768fede3f)
+
+   -**7: Gravar dados em arquivo estadias.txt**:
+
+![image](https://github.com/sofiavasconcelosms/Hotel-descanso-garantido/assets/161332457/86183275-337c-40f3-ac12-5ed67ec4ff3f)
+
+   -**8: Ler e imprimir dados do arquivo estadias.txt**:
+
+![image](https://github.com/sofiavasconcelosms/Hotel-descanso-garantido/assets/161332457/e591f980-389f-441a-ae75-4fbc9d61c829)
+
+
+   -**9: Sair**:
+
+![image](https://github.com/sofiavasconcelosms/Hotel-descanso-garantido/assets/161332457/09852543-f31a-467e-a555-3713a6690a83)
+
+
+
+
+
+
+
 
 
 
