@@ -26,8 +26,7 @@
    - Gera um código aleatório para o cliente.
    - Registra as datas de entrada e saída da estadia.
    - Calcula o número de diárias com base nas datas fornecidas.
-   - Solicita o número do quarto desejado, verificando se está disponível.
-   - Registra a quantidade de hóspedes e o valor da diária do quarto.
+   - Registra a quantidade de hóspedes.
    - Incrementa o número de clientes e estadias.
 
 2. **Ver Reservas Cadastradas (`case 2`)**:
